@@ -1,5 +1,5 @@
 # Reddit Group Project
-@author Grace(Project Manager), Anna and Ratna
+@author Grace, Anna and Ratna
 
 An application similar to Reddit, which allow user to:   
 1. Add a new posting.  
@@ -7,8 +7,7 @@ An application similar to Reddit, which allow user to:
 3. Search postings by keywords   
 
 Experience this app live on Heroku: https://reddit-clone-java.herokuapp.com        
-
-Login with pre-created account-- username:user/password:password
+Login with pre-created account-- <b>username:user/password:password</b>
 
 Reference and notes:
 
